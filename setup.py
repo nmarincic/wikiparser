@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
     
 setup(
-    name='Wikiparser',
+    name='wikiparser',
     version='0.1.0',
     description='German Wiktionary Parser',
     long_description=long_description,
