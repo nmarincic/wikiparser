@@ -9,8 +9,8 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
     
 setup(
-    name='sample',
-    version='0.1',
+    name='Wikiparser',
+    version='0.1.0',
     description='German Wiktionary Parser',
     long_description=long_description,
     url='https://github.com/nmarincic/wordProject',
@@ -26,7 +26,7 @@ setup(
     install_requires=['Click'],
     entry_points={
         'console_scripts': [
-            'wordproject=bin/wordproject:main',
+            'wikiparser=wikiparser.__main__:main',
         ],
     },
 )
