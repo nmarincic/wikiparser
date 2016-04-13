@@ -1,0 +1,312 @@
+Succesfully connected to the database 'database.db'
+title =  Katze
+page_id =  3133
+wikitext =  {{Wort der Woche|40|2006}}
+== Katze ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Katze
+|Nominativ Plural=Katzen
+|Genitiv Singular=Katze
+|Genitiv Plural=Katzen
+|Dativ Singular=Katze
+|Dativ Plural=Katzen
+|Akkusativ Singular=Katze
+|Akkusativ Plural=Katzen
+|Bild 1=Cat03.jpg|200px|1|''Katze'' mit rötlichem Fell
+|Bild 2=Himalayan Persian.jpg|200px|1|langhaarige ''Katze''
+}}
+
+{{Nebenformen}}
+:[[Katz]]
+
+{{Worttrennung}}
+:Kat·ze, {{Pl.}} Kat·zen
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkaʦə}}, {{Pl.}} {{Lautschrift|ˈkaʦn̩}}
+:{{Hörbeispiele}} 
+::deutsch: {{Audio|De-Katze.ogg}}, {{Pl.}} {{Audio|De-Katzen.ogg|Katzen}}
+::österreichisch: {{Audio|De-at-Katze.ogg}}, {{Pl.}} {{Audio|De-at-Katzen.ogg|Katzen}}
+:{{Reime}} {{Reim|aʦə|Deutsch}}
+
+{{Bedeutungen}}
+:[1] dem [[Mensch]]en [[verbunden]]es, [[anschmiegsam]]es [[Haustier]] (''Felis silvestris catus''), in zahlreichen Rassen gezüchtet
+::[a] speziell das [[Weibchen]]
+:[2] ein [[Teil]] eines [[Brückenkran]]es
+:[3] ''Plural, [[Zoologie]]:'' eine [[Familie]] (Félidae) der [[Raubtier]]e
+
+{{Herkunft}}
+: seit dem 9. Jahrhundert belegt; {{goh.}} ''kazza'' f., ''kazzo'' m., aus {{lat.}} ''catta'' (Martial, um 75 n. Chr.) entlehnt, von einer nordafrikanischen Sprache übernommen, vergleiche [[nubisch]] ''kadīs'', [[berberisch]] ''kaddîska'', letzlich aus spät[[ägyptisch]]er ''čaute'' f.,<ref>Jean-Paul Savignac: ''Dictionnaire français-gaulois'', Stichwort: „chat“. Errance, Paris 2004, Seite 82.</ref> ''čaus'' m. ‚Falbkatze‘ stammt.<ref>{{Lit-Pfeifer: Etymologisches Wörterbuch|A=8}}</ref>
+
+{{Synonyme}}
+:[1] [[Hauskatze]] (''Felis catus'', ''Felis domestica''), [[Stubentiger]], [[Dachhase]], [[Mieze]], [[Miezekatze]], [[Büsi]]
+::[1a] [[Kätzin]], die Katze [[Murner]] in der [[Fabel]]
+:[2] [[Laufkatze]]
+
+{{Weibliche Wortformen}}
+:[1] [[Kätzin]]
+
+{{Männliche Wortformen}}
+:[1, 1a] [[Kater]]
+
+{{Verkleinerungsformen}}
+:[[Kätzchen]], [[Kätzlein]]
+
+{{Oberbegriffe}}
+:[1] [[Haustier]], [[Säugetier]]
+
+{{Unterbegriffe}}
+:[1] ''nach Geschlecht:'' [[Kater]], [[Kätzin]]
+:[1] ''nach Rasse:'' [[Angorakatze]], [[Heilige Birma]], [[Britisch Kurzhaar]], [[Europäisch Kurzhaar]], [[Perserkatze]], [[Siamkatze]]
+:[1] [[Schmusekatze]], [[Schmusekätzchen]]
+:[1] ''übertragen:'' [[Geldkatze]]
+:[3] [[Raubkatze]]
+:[3] ''Arten:'' [[Andenkatze]] (''Oreailurus jacobitus''), [[Angorakatze]] (''Felis maniculata angorensis''), [[Bengalkatze]] (''Prionailurus bengalensis''), [[Borneokatze]] (Catopuma badia), [[Chilenische Waldkatze]] (''Oncifelis guigna''), [[Falbkatze]] (''Felis (silvestris) libyca''), [[Fischkatze]] (''Prionailurus viverrinus''/Felis v.), [[Flachkopfkatze]] (''Prionailurus planiceps''), [[Gepard]] (Unterfamilie ''Acinonyxchinae''), (afrikanische) [[Goldkatze]] (''Profelis aurata''), [[Großkatze]] (''Pantherinae''), [[Iriomotekatze]] (''Prionailurus bengalensis iriomotensis''); (''Prionailurus iriomotensis''), [[Jaguar]] (''Panthera onca''), [[Karakal]] (''Caracal caracal''), [[Leopard]] (''Panthera pardus''), [[Löwe]] (''Panthera leo''), [[Luchs]] (''Lynx lynx'', auch: ''Felis lynx''), [[Manul]] (''Otocolobus manul''), [[Marguay]] (''Leopardus wiedii''), [[Marmorkatze]] (''Felis marmorata''), [[Nebelparder]] (''Neofelis nebulosa''), [[Ozelot]] (''Leopardus pardalis''), [[Ozelotkatze]] (''Leopardus tigrinus''), [[Pampaskatze]] (''Oncifelis colocolo''), [[Puma]] (''Puma concolor''), [[Rohrkatze]] (''Felis chaus''), [[Rostkatze]] (''Prionailurus rubiginosus''), [[Säbelzahnkatze]] (''Machairodontinae''), [[Salzkatze]] (''Oncifelis geoffroyi''), [[Sandkatze]] (''Felis margarita''), [[Schleichkatze]] (''Viverridae''), [[Schneeleopard]] (''Uncia uncia''), [[Schwarzfußkatze]] (''Felis nigripes''), [[Serval]] (''Leptailurus serval''),  [[Steppenkatze]] (''Felis ornata''), [[Tiger]] (''Panthera tigris''), [[Vankatze]], [[Wildkatze]] (''Felis silvestris'')
+
+{{Beispiele}}
+:[1] Eine ''Katze'' jagt eine Maus.
+:[1] „Doch binnen einer halben Stunde fand sich die ''Katze'' erneut vor dem Amtszimmer des Schatzmeisters ein, weitaus hungriger als vorher.“<ref>{{Literatur | Autor= Philip J. Davis | Titel= Pembrokes Katze | TitelErg= Die wundersame Geschichte über eine philosophierende Katze, ein altes mathematisches Problem und die Liebe| Verlag= Fischer Taschenbuch Verlag | Ort= Frankfurt/Main |Jahr= 1991| Seiten= 19.|ISBN= 3-596-10646-X}} Englisches Original 1988.</ref>
+:[1a] Ist das eine ''Katze'' oder ein Kater?
+:[2] Der Brückenkran mit seiner ''Katze'' steht in der Montagehalle.
+:[3] ''Katzen'' sind Jäger mit sehr guter Nachtsicht.
+
+{{Redewendungen}}
+:''[[Augen auskratzen wie eine Katze]]'' - eine gefährlich werdende (weibliche) Person
+:''[[da beißt sich die Katze in den Schwanz]]'' - ''ein Problem'' führt auf sich selbst zurück und kann deshalb nicht gelöst werden; ''ein Beweis'' ist zirkulär
+:''[[damit kann man keine Katze mehr hinter dem Ofen hervorlocken]]'' - veraltete bzw. zwecklose Methode, Sache, etc.
+:''[[der Katze die Schelle umbinden]] / [[der Katze die Schelle umhängen|umhängen]]'' - derjenige sein bzw. insgesamt der Vorgang, indem man die Gefahr eines Übergriffs, etc. bannt: nach einer Fabel
+:''[[die Katze im Sack kaufen]]'' - sich auf etwas Unwägbares einlassen
+:''[[die Katze aus dem Sack lassen]]'' - jemandem ein eigenes Geheimnis offenbaren
+:''[[flink wie eine Katze sein]]'' - besonders flink sein
+:''[[für die Katz sein]]'' - unnötig, vergeblich, umsonst sein
+:''[[mit jemandem Katz und Maus spielen]]'' - jemandem scheinbar Freiheiten lassen, nur um ihn danach umso grausamer zurechtzustutzen; jemandem mit weit überlegener Raffinesse mitspielen; an jemandem seinen Mutwillen auslassen
+:''[[Katzen und Hunde regnen]]'' - (sehr) schlechtes Wetter
+:''[[keine Katze (mehr) aus dem Haus jagen / schicken /setzen, etc.]]'' - sehr schlechtes Wetter (Variation: keinen Hund (mehr) aus dem Haus jagen / schicken /setzen, etc.)
+:''[[wie Hund und Katz' sein]]'' - im Streit liegen
+:''[[das geht ab wie Schmidts Katze]]'' - es geht sehr schnell. ''(„Schmidt“ meint den Schmied, der aus Versehen mit dem Hammer auf den Schwanz der Katze gehauen hat. Deswegen „ging“ die Katze „ab“.)''
+:''[[sieben Leben haben wie eine Katze]]'' - vieles überstehen, robust sein, nicht umzubringen sein
+:''[[wie eine Katze immer auf die eigenen Füße fallen]]'' - sich geschickt aus der Affäre ziehen
+:''[[wie eine nasse Katze schauen]]'' - überrascht sein bzw. schauen, ...
+:''[[wie eine Katze um den heißen Brei schleichen]]'' - der Sache aus dem Weg gehen, verhalten reagieren, zögern, etc.
+:''[[nach der Katze treten]]'' - die eigene Wut perfide gegenüber einem Unschuldigen auslassen
+
+{{Sprichwörter}}
+:''[[die Katze lässt das Mausen nicht]]'' - ein (angeborenes) Verhalten kommt immer wieder zum Vorschein
+:''[[Ist die Katze aus dem Haus, tanzen die Mäuse auf dem Tisch]]'' - ist die gewöhnliche Autorität abwesend, schlagen alle über die Stränge
+::''[[Ist die Katze aus dem Haus, rührt sich die Maus]]'' -
+::''[[Ist die Katze aus dem Haus, freut sich die Maus]]'' -
+:''[[Käm' eine Katze ins Morgenland, sie würde miauen, wie es hier bekannt]]''. - manche Dinge sind überall gleich
+:''[[nachts sind alle Katzen grau]]''. - ''(Motivierung: nachts sieht das menschliche Auge keine Farben)'' wo Licht fehlt, sieht oder beachtet man die (feinen) Unterschiede nicht; unter besonderen Umständen fallen die üblichen Unterscheidungen zusammen
+
+{{Charakteristische Wortkombinationen}}
+:[1] ''Katzen'' [[fauchen]], [[jagen]], [[lauern]], [[kratzen]], [[mausen]], [[mau(n)zen]], [[miauen]], [[schlecken]], (herum-/umher-)[[schleichen]], [[schmusen]], [[schnurren]]
+:[1] (die) ''Katze'' im [[Sack]], (die) ''Katze'' aus dem Sack, , wie eine ''Katze'', die ''Katze'' auf dem [[heiß]]en [[Blechdach]], wie [[Hund]] und ''Katz'', die ''Katze'' im Sack [[kaufen]], wie die ''Katze'' um den [[heiß]]en [[Brei]], die ''Katze'' aus dem Sack [[lassen]], wie die ''Katze'' auf die [[Füße]] [[fallen]], eine ''Katze'' mag zu einem König aufblicken, eine ''Katze'' mit [[Handschuhen]] [[fängt]] keine [[Mäuse]], der ''Katze'' die [[Schelle]] [[anhängen]], [[schleich]] nicht wie die ''Katze'' um den heißen Brei, eine [[braun]] [[gezeichnete]] ''Katze'', so [[nass]] wie eine [[ertränkte]] ''Katze'', eine ''Katze'' hat ein [[zäh]]es [[Leben]], leben wie Hund und ''Katze'', eine [[verbrüht]]e ''Katze'' [[fürchtet]] [[kalt]]es [[Wasser]], man muss die ''Katze'' nicht im Sack kaufen, wie Hund und ''Katze'' leben, eine ''Katze'' hat [[neun]] [[Leben]], Schmitts ''Katze'', Schrödingers ''Katze''
+:[1] eine [[abessinisch]]e ''Katze'', {{Audio|De-eine gefleckte Katze.ogg|->}} eine [[gefleckt]]e ''Katze,'' eine [[gestreift]]e ''Katze,'' eine [[getigerte]] ''Katze,'' eine [[schwanzlos]]e ''Katze,'' eine [[schwarz]]e ''Katze''
+:[?] [[Neunschwänzige Katze]] (=[[Peitsche]])
+
+{{Wortbildungen}}
+:[[Katzenallergie]], [[Katzenauge]], [[Katzenbaum]], <!--(Kratzbaum) das kann man dann unter Katzenbaum bzw. Kratzbaum schreiben --> [[Katzenbuckel]], [[Katzendreck]], [[Katzenfell]], [[Katzenfutter]], [[Katzengold]], [[Katzengras]], [[Katzenjammer]], [[Katzenjunges]], [[Katzenklappe]], [[Katzenklo]], [[Katzenkonzert]], [[Katzenleukose]], [[Katzenminze]],  [[Katzenmusik]], [[Katzenpfote]], [[Katzenschnupfen]], [[Katzensprung]], [[Katzentisch]], [[Katzenwäsche]]
+
+==== Übersetzungen ====
+{{Ü-Tabelle|Ü-links=
+*{{ar|DMG}}:
+**{{MHA}}: [1] {{Üxx4|ar|بس|v=بَسّ|d=bass|DMG=0}} {{m}}, {{Üxx4|ar|DMG=0|d=qiṭṭ|v=قِطّ|قط}} {{m}}, {{Üxx4|ar|DMG=0|d=hirr|v=هِرّ|هر}} {{m}}, [1a] {{Üxx4|ar|بسة|v=بَسَّة|d=bassa|DMG=0}} {{f}}, {{Üxx4|ar|DMG=0|d=qiṭṭa|v=قِطَّة|قطة}} {{f}}, {{Üxx4|ar|DMG=0|d=hirra|v=هِرَّة|هرة}} {{f}}, [3] {{Üxx4|ar|سنور|v=سِنَّوْر|d=sinnawr|DMG=0}} {{m}}
+**{{ary}}: [1] {{Üxx4|ar|DMG=0|d=qaṭṭ<ref name="Moscoso García">Nach {{Literatur | Autor=Francisco Moscoso García | Titel=Diccionario español – árabe marroquí | Verlag=Junta de Andalucía, Dirección General de Coordinación de Políticas Migratorias | Ort=Sevilla | Jahr=2005 | ISBN=84-689-2464-4 }}, Sti 
+
+title =  über
+page_id =  19445
+wikitext =  == über ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Präposition|Deutsch}} ===
+
+{{Worttrennung}}
+:über
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈyːbɐ}}
+:{{Hörbeispiele}} {{Audio|De-über.ogg|über}}
+:{{Reime}} {{Reim|yːbɐ|Deutsch}}
+
+{{Bedeutungen}}
+*mit dem [[Dativ]]:
+:[1] [[oberhalb]] liegend (Antwort auf die Frage „wo?“)
+*mit dem [[Akkusativ]]:
+:[2] sich [[oben]], oberhalb von etwas, bewegend (Antwort auf die Frage „wohin?“)
+:[3] eine Zeitspanne ausdrückend
+:[4] sich durch etwas bewegend, etwas passierend
+:[5] ''übertragen:'' auf etwas/jemanden gerichtetes Handeln: von
+:[6] ''übertragen:'' bezeichnet einen Mittler: durch, mit Hilfe von
+:[7] lautend auf genau (nicht ''mehr als,'' siehe Adverb hierunter)
+
+{{Abkürzungen}}
+:[4] [[ü.]]
+
+{{Herkunft}}
+:mittelhochdeutsch ''über'', althochdeutsch ''ubar'', Adverb ''ubari'', verwandt mit gotisch ''ufar'', englisch ''over'', lateinisch [[:la:super|super]], griechisch {{Üt|grc|ὕπερ|hýper}}/{{Üt|grc|ὑπέρ|hypér}}. Das Wort ist seit dem 8. Jahrhundert belegt.<ref>{{Literatur|Autor=Wolfgang Pfeifer [Leitung]|Titel=Etymologisches Wörterbuch des Deutschen|Auflage=2. durchgesehene und erweiterte |Verlag=Deutscher Taschenbuch Verlag|Ort=München|Jahr=1993|ISBN=3-423-03358-4}}, Stichwort „über“.</ref>
+
+{{Synonyme}}
+:[1] [[oberhalb]], höher als; ''österreichisch:'' [[ober]]
+:[4] [[durch]]
+:[5] [[von]]
+
+{{Gegenwörter}}
+:[1, 2] [[unter]]
+
+{{Beispiele}}
+:[1] Der erste Stock liegt ''über'' dem Erdgeschoss.
+:[2] Das Flugzeug fliegt ''über'' die Stadt.
+:[3] Es regnete ''über'' das Wochenende.
+:[4] Dieser Zug fährt ''über'' Salzburg.
+:[5] ''Über'' Dronten ist nicht allzu viel bekannt.
+:[5] Kaum drehte er ihnen den Rücken, redeten sie ''über'' ihn.
+:[5] Ich freue mich ''über'' den Erfolg.
+:[6] Die Kommunikation erfolgte ''über'' Internet.
+:[6] Wir haben uns ''über'' alte Freunde kennengelernt.
+:[7] Er gab ihr einen Scheck ''über'' 500 Euro. (''Vergleiche aber:'' Er gab ihr ''über'' 500 Euro in bar.)
+
+{{Redewendungen}}
+:[[etwas über sich bringen]]
+:[[mit jemandem über Kreuz liegen]]
+:[[über Eck]]
+:[[jemanden über Eck ansehen]], [[jemanden über Eck anschauen]]
+:[[über Gebühr]] [[beanspruchen]]
+
+{{Charakteristische Wortkombinationen}}
+:[1] ''über'' dem [[Meeresspiegel]]
+:[3] die Zeit ''über''
+:[6] ''über'' [[Freund]]e, [[Internet]], [[Telefon]]
+
+{{Wortbildungen}}
+:[[darüber]], [[herüber]], [[hierüber]], [[hinüber]], [[vorüber]], [[worüber]]
+:[[über-]], [[überall]], [[übergeordnet]], [[überhaupt]], [[überzwerch]]
+:[[übern]], [[übers]]
+:{{Wortbildung|Substantive|:}} [[Überbein]], [[Überblick]], [[Überdecke]], [[Übereinkunft]], [[Überfall]], [[Übergabe]], [[Übergang]], [[Überich]], [[Überschall]], [[Überschrift]], [[Überweisung]]
+::{{Wortbildung|Verben|:}} [[überbrücken]], [[überhand nehmen]]
+
+==== Übersetzungen ====
+{{Ü-Tabelle|Ü-links=
+*{{grc}}: [1] {{Üt|grc|ὑπέρ|hypér}}
+*{{ar}}: [1] {{Üt|ar|فوق|fauqa}}
+*{{en}}: [1] {{Ü|en|above}}; [1, 2]{{Ü|en|over}}; [2] {{Ü|en|across}}; [4] {{Ü|en|beyond}}; [5] {{Ü|en|about}}, {{Ü|en|on}}
+*{{eo}}: [1–3] {{Ü|eo|super}}; [5] {{Ü|eo|pri}}
+*{{fr}}: [1, 2] {{Ü|fr|au-dessus de}}, [1, 2, 5] {{Ü|fr|sur}}; [4, 6] {{Ü|fr|par}} [5] {{Ü|fr|de}}
+*{{it}}: [1, 2] {{Ü|it|sopra}}; [5] {{Ü|it|riguardo}}, {{Ü|it|circa}}, {{Ü|it|super}}
+*{{ja}}: [4] {{Üt|ja|以上|いじょう, ijô}}
+*{{ca}}: [1, 2, 5] {{Ü|ca|sobre}}
+|Ü-rechts=
+*{{oc}}: [1, 2] {{Ü|oc|sus}}, {{Ü|oc|sul}}
+*{{pl}}: [1, 2] {{Ü|pl|nad}}
+*{{pt}}: [1, 2, 5] {{Ü|pt|sobre}}; [1–4] {{Ü|pt|em cima}} (de); [5] {{Ü|pt|acerca}} (de)
+*{{ru}}: [1, 2] {{Üt|ru|над|nad}}; [4, 6] {{Üt|ru|через|čerez}}, [5] {{Üt|ru|о|o}}
+*{{sv}}: [1–3, 6] {{Ü|sv|över}}; [1] {{Ü|sv|ovanför}}; [4, 6] {{Ü|sv|via}}; [5] {{Ü|sv|om}}, {{Ü|sv|åt}}; [7] {{Ü|sv|på}}
+*{{es}}: [1, 2, 5] {{Ü|es|sobre}}; [1–4] {{Ü|es|por encima}} (de); [5] {{Ü|es|acerca}} (de)
+*{{cs}}: [1, 2] {{Ü|cs|nad}}; [4] {{Ü|cs|přes}}; [5] {{Ü|cs|o}}
+*{{tr}}: [1, 2] {{Ü|tr|üzerinde}}
+*{{hu}}: [1] {{Ü|hu|felett}}
+}}
+
+{{Referenzen}}
+:[*] {{Ref-Grimm|über}}
+:[1–6] {{Ref-DWDS|über}}
+:[*] {{Ref-Canoo|über}}
+:[1–6] {{Ref-UniLeipzig|über}}
+:[1–7] {{Ref-FreeDictionary|über}}
+:[1–7] {{Ref-Duden|über}}
+
+{{Quellen}}
+
+{{Präpositionen (Deutsch)}}
+
+=== {{Wortart|Adverb|Deutsch}} ===
+
+{{Worttrennung}}
+:über
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈyːbɐ}}
+:{{Hörbeispiele}} {{Audio|De-über.ogg|über}}
+:{{Reime}} {{Reim|yːbɐ|Deutsch}}
+
+{{Bedeutungen}}
+:[1] bezeichnet die Überschreitung einer Grenze oder Zahlenangabe: weiter als, mehr als
+:[2] ''dialektisch, umgangssprachlich:'' [[übrig]]
+
+{{Herkunft}}
+:mittelhochdeutsch ''über'', althochdeutsch ''ubar'', Adverb ''ubari'', verwandt mit gotisch ''ufar'', englisch ''over'', lateinisch [[:la:super|super]], griechisch {{Üt|grc|ὕπερ|hýper}}/{{Üt|grc|ὑπέρ|hypér}}. Das Wort ist seit dem 8. Jahrhundert belegt.<ref>{{Literatur|Autor=Wolfgang Pfeifer [Leitung]|Titel=Etymologisches Wörterbuch des Deutschen|Auflage=2. durchgesehene und erweiterte |Verlag=Deutscher Taschenbuch Verlag|Ort=München|Jahr=1993|ISBN=3-423-03358-4}}, Stichwort „über“.</ref>
+
+{{Synonyme}}
+:[1] [[wenigstens]], [[mindestens]], [[geringstenfalls]]
+:[2] [[übrig]]
+
+{{Gegenwörter}}
+:[1] [[unter]]
+
+{{Beispiele}}
+:[1] Er ist ''über'' sechzig Jahre alt.
+:[1] Er schoss weit ''über'' das Ziel hinaus.
+:[1] Sie hatte schon ''über'' die Hälfte angespart.
+:[2] Da ist noch was Suppe ''über.''
+
+{{Redewendungen}}
+:[[über und über]]
+:[[jemandem über sein]]
+
+{{Wortbildungen}}
+:[[überlassen]]
+:[[überängstlich]], [[übereilt]], [[überflüssig]]
+:[[Überangebot]], [[Überarbeitung]], [[Überbevölkerung]], [[Überdosis]], [[Überfluss]], [[Übergewicht]], [[Überlast]], [[Übermacht]], [[Übermaß]], [[Übervölkerung]], [[Übervorsicht]], [[Überzahl]]
+
+==== Übersetzungen ====
+{{Ü-Tabelle|Ü-links=
+*{{en}}: [1] {{Ü|en|beyond}}
+*{{eo}}: [1] {{Ü|eo|super}}
+*{{fr}}: [1] {{Ü|fr|plus de}}, {{Ü|fr|au-delà de}}, {{Ü|fr|plus loin que}} [2] über sein: {{Ü|fr|rester}},
+*{{ja}}: [1] {{Üt|ja|以上|いじょう, ijô}}
+|Ü-rechts=
+*{{pt}}: [1] {{Ü|pt|em cima}} (de)
+*{{sv}}: [1] {{Ü|sv|över}}, {{Ü|sv|mer än}}; [2] {{Ü|sv|kvar}}, {{Ü|sv|över}}
+*{{es}}: [1] {{Ü|es|por encima}} (de)
+*{{cs}}: [1] {{Ü|cs|přes}}
+}}
+
+{{Referenzen}}
+:[*] {{Ref-Grimm|über}}
+:[1, 2] {{Ref-DWDS|über}}
+:[1] {{Ref-UniLeipzig|über}}
+
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[aber]], [[Eber]]}}
+
+[[br:über]]
+[[chr:über]]
+[[cs:über]]
+[[da:über]]
+[[el:über]]
+[[en:über]]
+[[et:über]]
+[[fi:über]]
+[[fj:über]]
+[[fr:über]]
+[[hu:über]]
+[[hy:über]]
+[[io:über]]
+[[it:über]]
+[[ja:über]]
+[[ko:über]]
+[[ku:über]]
+[[li:über]]
+[[lt:über]]
+[[mg:über]]
+[[nah:über]]
+[[nl:über]]
+[[pl:über]]
+[[pt:über]]
+[[ru:über]]
+[[sv:über]]
+[[zh:über]] 
+
+Connection to the database closed!
