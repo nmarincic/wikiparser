@@ -1,179 +1,104 @@
 # -*- coding: utf-8 -*-
 
-import sqlite3
-from os import remove as rm
+import wikiparser.db_low as db
+import os
+from os.path import expanduser
 from os.path import exists
 
 
-class DatabaseError(Exception):
-    pass
-    
-# DATABASE CREATION & MANAGEMENT
-    
-def create_database(path):
-    if exists(path):
-        message = "Database '%s' already exists. No databases created!" %path
-        raise DatabaseError(message)
+def create_database():    
+    if create_db_folder(install_path):
+        # folder created
+        if db.create_database(db_path):
+            # database created
+            if create_tables(db_path, table_name):
+                # tables created
+                pass
+    else:
+        # folder already exists
+        if db.create_database(db_path):
+            # database created
+            if create_tables(db_path, table_name):
+                # tables created
+                pass
+        else:
+            # database already exists
+            if table_exists(db_path, table_name):
+                # table already exists
+                pass
+            else:
+                # table does not exist
+                if create_tables(db_path, table_name):
+                    # tables created
+                    pass
+
+    print ("All done!") 
+    return db_path
+
+
+def create_db_folder(the_path):
+    if not exists(the_path):
+        os.makedirs(the_path)
+        print ("Database folder created at: {0}".format(the_path))
+        return True
+    else:      
+        print ("Database folder already exists at: {0} !".format(the_path))
         return None
-    else:
-        sqlite3.connect(path)
-        print ("Succesfully created the database '%s'." %path)
-        return connect_to_database(path)
-        
-        
-def connect_to_database(path):
-    if exists(path):
-        conn = sqlite3.connect(path)
-        print ("Succesfully connected to the database '%s'" %path)
-        return conn
-    else:
-        message = "Database '%s' does not exist. Cannot connect" %path
-        raise DatabaseError(message)
-        return None
 
+def get_install_path():
+    home = expanduser("~")
+    db_folder = "/.wikiparser"
+    return home+db_folder
 
-def close_connection(db):
-    db.close()
-    print ("Connection to the database closed!")
+def create_tables(db_path, table_name):
+    conn = db.connect_to_database(db_path)
+    db.create_table(conn, table_name)
+    print ('Table "{0}" created sucessfully'.format(table_name))
+    db.close_connection(conn)
+    return True
 
-def delete_database(path):
-    if exists(path):
-        rm(path)
-        print ("Database '%s' deleted." %path)
-    else:
-        message = "Database '%s' does not exist" %path
-        raise DatabaseError(message)
-
-
-# TABLE CREATION & MANAGEMENT
-          
-def get_tables(conn):
-    table_names = []
-    cursor = conn.cursor()
-    cursor.execute("select name from sqlite_master where type='table';")
-    tables = cursor.fetchall()
-    if tables == []:
-        print ("No tables in the database!")
-        return []
-    for i in range(len(tables)):
-        name = tables[i][0]
-        table_names.append(name)
-    return table_names
-
- 
-def has_table(conn, table_name):
-    tables = get_tables(conn)
-    if tables:
-        if table_name in tables:
-            print ("Table '%s' exists." %table_name)
-            return tables 
-    print ("Table '%s' doesn't exists." %table_name)
+def table_exists(db_path, table_name):
+    conn = db.connect_to_database(db_path)
+    if db.has_table(conn, table_name):
+        db.close_connection(conn)
+        return True
     return None
 
+def add_word_to_db(word):
+    conn = db.connect_to_database(db_path)
+    db.insert_word_data(conn, table_name, word)
+    print ("Word '{0}' inserted sucessfully!".format(word[0]))
+    db.close_connection(conn)
 
-def create_tables(conn, table_name):
-    if not has_table(conn, table_name):
-        conn.execute('''create table %s
-               (title    char(50) primary key  not null,
-               page_id   char(10) not null,
-               wikitext  text     not null
-               );''' %table_name)
-        print ("Table %s created sucessfully" %table_name)
-        return conn
-
-
-def print_tables(conn):
-    tables = get_tables(conn)
-    if tables:
-        print ("Tables:")
-        for table in tables:
-            print (table)
-                    
-            
-def drop_table(conn, tableName):
-    if has_table(conn, tableName):
-        cursor = conn.cursor()
-        line = "DROP TABLE %s" %tableName
-        cursor.execute(line)
-        conn.commit()
-        print ("Dropped table '%s'" %tableName)
-
-
-def drop_all_tables(conn):
-    tables = get_tables(conn)
-    if tables:
-        for table in tables:
-            drop_table(conn, table)
-        print ("All tables dropped!")
-
-                   
-# WORD MANAGEMENT
-
-def word_exists(conn, table_name, word):
-    line = "select exists(select 1 from %s where title=? limit 1)" %table_name
-    cursor = conn.execute(line, (word,))
-    result = cursor.fetchone()[0]
-    if result==1:
+def word_exists(word):
+    print (db_path)
+    conn = db.connect_to_database(db_path)
+    if db.word_exists(conn, table_name, word):
+        db.close_connection(conn)
         return True
+    db.close_connection(conn)
     return False
+
+def print_database():
+    conn = db.connect_to_database(db_path)
+    words = db.get_all_words(conn, table_name)
+    print ("Existing words")
+    print ("="*20)
+    for word in words:
+        print (word+", ",end='')
+    print ("\n")
+    db.close_connection(conn)
+
+def get_all_records():
+    conn = db.connect_to_database(db_path)
+    records = db.get_all_records(conn, table_name)
+    db.close_connection(conn)
+    return records
+
+
     
-                
-def insert_word_data(conn, table_name, list):
-    line = "insert into %s values (?,?,?)" %table_name
-    conn.execute(line, (list[0], list[1], list[2]));
-    conn.commit()
-    print ("Records inserted successfully")
+db_name = 'wiki_database.db'
+install_path = get_install_path()
+db_path = install_path+"/"+db_name
+table_name = "words"
 
-
-def update_word(conn, table_name, word):
-    line = "update %s set page_id=?, wikitext=? where title=?" %table_name
-    conn.execute(line, (word[1], word[2], word[0]))
-    conn.commit()
-    print ("Updated word: %s. Total number of rows deleted : %i" %(word[0],conn.total_changes))
-            
-
-def delete_word(conn, table_name, word):
-    line = "delete from %s where title=?" %table_name
-    conn.execute(line, (word,))
-    conn.commit()
-    print ("Deleted word: %s. Total number of rows deleted : %i" %(word,conn.total_changes))
-    
-    
-def get_all_words(conn, table_name):
-    words = []
-    line = "select title from %s" %table_name
-    cursor = conn.execute(line)
-    for row in cursor:
-       words.append(row[0])
-    return words
-
-
-# RECORD MANAGEMENT
-
-
-def get_record(conn, table_name, word):
-    line = "select title, page_id, wikitext  from %s where title=?" %table_name
-    cursor = conn.execute(line, (word,))
-    return cursor.fetchone()
-    
-    
-def get_all_records(conn, table_name):
-    records = []
-    line = "select title, page_id, wikitext  from %s" %table_name
-    cursor = conn.execute(line)
-    return cursor.fetchall()
-    
-
-def delete_all_records(conn, table_name):
-    cursor = conn.execute("DELETE from %s" %table_name)
-    conn.commit()
-    print ("All records deleted successfully")
-    
-
-def print_records(conn, table_name, limit):
-    line = "select title, page_id, wikitext  from %s" %table_name
-    cursor = conn.execute(line)
-    for row in cursor:
-       print ("title = ", row[0])
-       print ("page_id = ", row[1])
-       print ("wikitext = ", row[2][0:limit], "\n")

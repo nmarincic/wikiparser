@@ -1,34 +1,35 @@
+# -*- encoding: utf-8 -*-
+
 import sys  
 import wikiparser.pageparser as pp
 import wikiparser.database as db
-import mwparserfromhell
 
 def main():
-        
-    data_base = db.connect_to_database("../database.db")
-    words = db.get_all_words(data_base, "words")
+    
+    # create database 
+    #conn = db.create_database()
+    
 
-    all_records = db.get_all_records(data_base, 'words')
-    
-    db.print_records(data_base, "words", 10000)
-    print (words)
-    
-    word = []
-    page = pp.parse_wiki_page("über")
-    if page:
-        word.append(page['title'])
-        word.append(page['pageid'])
-        word.append(page['wikitext'])
-        db.insert_word_data(data_base, "words", word)
-    else:
-        print ('error')
+    # parse stuff
+    pp.download_word("Brot")
 
-    text = word[2]
-    wikicode = mwparserfromhell.parse(text)
-    sections = wikicode.get_sections()
-    for s in sections:
-        print (s)
-    db.close_connection(data_base)
+    # see what's in the database
+    print ('\n'*2)
+    db.print_database()
+    print ('\n'*2)
+
+    #get records
+    records = db.get_all_records()
+    for i in records:
+       print ("\n"*2)
+       print (i[0])
+       print ("\n"*2)
+       print (i[1])
+       print ("\n"*2)
+       print (i[2][:500])
+       print ("\n"*2)
+       print ("="*50)
     
+
 if __name__ == "__main__":
     main()
